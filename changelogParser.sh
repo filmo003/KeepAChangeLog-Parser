@@ -85,5 +85,5 @@ fi
 if [[ $exitFlag == 1 ]]; then
   exit 1
 else
-  echo -e "Changelog is valid"
+  echo "Changelog is valid"
 fi
